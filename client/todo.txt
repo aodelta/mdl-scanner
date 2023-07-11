@@ -1,4 +1,3 @@
 logs :
     - [server] : add 24h cleaner
-    - regarder si j'ai pas fait de la grosse merde à minuit
     - multi-page ?
